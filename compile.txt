@@ -1,0 +1,3 @@
+gcc dcf_user.c -o dcf_user `pkg-config --cflags --libs gtk+-2.0` 
+
+
